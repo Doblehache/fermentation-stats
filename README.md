@@ -1,4 +1,4 @@
 # fermentation-stats
-Aplicación realizada con Mule que comprueba los datos de la fermentación de una cerveza de Amarillo Beer Company y avisa de valores fuera de rango.
+FermentationStats es una aplicación realizada con Mule que comprueba los datos de la fermentación de la cerveza de Amarillo Beer Company y notifica vía correo electrónico de valores fuera de rango. Comprueba temperatura, presión y altitud.
 
 Más información en: https://thingspeak.com/channels/107968
